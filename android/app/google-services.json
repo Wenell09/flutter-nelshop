@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056205342235",
+    "project_id": "nelshop-1c74c",
+    "storage_bucket": "nelshop-1c74c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056205342235:android:1b92a02f0b48900c6b1abe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_nelshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4LnYoBH1EyF09qUBk54OAUqkTBIbDMy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
